@@ -1,0 +1,20 @@
+{
+  "name": "projeto-integrador-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorMeloDS/projeto-integrador-back.git"
+  },
+  "keywords": [],
+  "author": "vitor.melo <vmsvitor20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VitorMeloDS/projeto-integrador-back/issues"
+  },
+  "homepage": "https://github.com/VitorMeloDS/projeto-integrador-back#readme"
+}
